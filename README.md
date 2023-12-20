@@ -5,7 +5,8 @@ The problem is to forecast the sale of purchase item in each region.
 **capstone_project_1.iynb file**  
 
 Step 1 : Downloaded consumer behaviour dataset from kaggle ([https://www.kaggle.com/datasets/yasserh/wine-quality-dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset))  
-Step 2 : Cleaned the datset and did EDA analysis (Purchase Amount and Location are closely related according to headmap) 
+Step 2 : Cleaned the datset and did EDA analysis (Purchase Amount and Location are closely related according to heatmap) 
+
 Step 3 : Spilt the dataset into train, valid and test  
 Step 4 : Trained Linear Regression model  
 Step 5 : Find the least root mean square error (rmse) for the linear regression model with various r values 
